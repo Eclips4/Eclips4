@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclips4&count_private=false&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclips4&count_private=true&show_icons=true&theme=tokyonight&custom_title=Eclips4 stats)](https://github.com/anuraghazra/github-readme-stats)
