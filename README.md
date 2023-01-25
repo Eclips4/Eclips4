@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclips4&show_icons=true&theme=tokyonight&custom_title=Eclips4%20stats&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Hello there!
+I interested in such things as CPython and Web technologies.
+
+If u wanna dm me, write me message in telegram, my username - `@backinblacknext`
