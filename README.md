@@ -2,7 +2,7 @@
 
 
 Hello there!
-I interested in such things as CPython and Web technologies.
+I interested in such things as CPython and compilers.
 
 My telegram: `@backinblacknext`
 
