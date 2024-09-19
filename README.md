@@ -1,6 +1,3 @@
-19 yo
-
-
 Hello there!
 I interested in such things as CPython and compilers.
 
